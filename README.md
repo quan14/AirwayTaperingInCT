@@ -1,7 +1,7 @@
 # Airway Tapering In CT
 A MATLAB implementation of acquiring an airway tapering measurement as described in my work:
 
-* K. Quan et al., “Tapering analysis of airways with bronchiectasis,” Proc. SPIE 10574, 105742G (2018).
+* K. Quan et al., “Tapering analysis of airways with bronchiectasis,” Proc. SPIE 10574, 105742G (2018). https://arxiv.org/abs/1909.06604
 
 The code was written on Windows 10 and includes an example with images.
 
@@ -20,9 +20,7 @@ The CT images provided from QIN LUNG CT (https://wiki.cancerimagingarchive.net/d
 * Clark K, Vendt B, Smith K, Freymann J, Kirby J, Koppel P, Moore S, Phillips S, Maffitt D, Pringle M, Tarbox L, Prior F. The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository, Journal of Digital Imaging, Volume 26, Number 6, December, 2013, pp 1045-1057. (https://doi.org/10.1007/s10278-013-9622-7)
 
 To cite my work:
-* K. Quan et al., “Tapering analysis of airways with bronchiectasis,” Proc. SPIE 10574, 105742G, 2018 (http://discovery.ucl.ac.uk/10045622/)
-
-Will be placing it on Arxiv soon
+* K. Quan et al., “Tapering analysis of airways with bronchiectasis,” Proc. SPIE 10574, 105742G, 2018 (https://arxiv.org/abs/1909.06604)
 
 ## Contact 
 Email: kin.quan.10@ucl.ac.uk

@@ -4,7 +4,6 @@ clear
 current_path = pwd;
 addpath(genpath(current_path))
 %% Load the images 
-
 raw_name = 'github_demo_raw.nii';
 seg_name = 'github_demo_seg.nii';
 distal_name = 'github_demo_dital_point.nii';
@@ -35,6 +34,12 @@ area_array = result_sturct.tapering_raw_image.area_results.phyiscal_area;
 arclength = result_sturct.tapering_raw_image.arclegth;
 tapering_vaule = result_sturct.tapering_raw_image.area_results.tapering;
 plot(arclength,log(area_array))
-ylabel('Arclength mm')
-xlabel('Log Area')
+ylabel('Log Area')
+xlabel('Arclength mm')
 title(['Taper = ' num2str(tapering_vaule) ' mm^{-1}'])
+
+%% Interactively view raycast results 
+% by Ashkan Pakzad (ashkanpakzad.github.io)
+
+% input .mat filename as string including file extension
+ShowTaperImages(file_path(1,:))

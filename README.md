@@ -23,7 +23,7 @@ To cite my work:
 * K. Quan et al., “Tapering analysis of airways with bronchiectasis,” Proc. SPIE 10574, 105742G, 2018 (https://arxiv.org/abs/1909.06604)
 
 ## Contact 
-Email: kin.quan.10@ucl.ac.uk
+Email: kwk.quan@gmail.com
 
 Linkedin: https://www.linkedin.com/in/kin-quan/ 
 
